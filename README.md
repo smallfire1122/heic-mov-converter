@@ -1,7 +1,5 @@
 # HEIC / MOV Converter
 
-[![GitHub release](https://img.shields.io/github/v/release/smallfire1122/heic-mov-converter)](https://github.com/smallfire1122/heic-mov-converter/releases)
-
 Windows 桌面批次轉檔工具，可將：
 
 - `HEIC` 轉為 `JPG`
@@ -22,8 +20,7 @@ Windows 桌面批次轉檔工具，可將：
 ## 下載方式
 
 一般使用者請到 GitHub Releases 下載：
-
-- `HeicMovConverter.exe`
+[![GitHub release](https://img.shields.io/github/v/release/smallfire1122/heic-mov-converter)](https://github.com/smallfire1122/heic-mov-converter/releases)
 
 ## 使用方式
 
